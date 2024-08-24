@@ -1,12 +1,7 @@
 import pickle
 
-# use the pickle module to load the inverted index in model_queries_21CS30032.bin
-# and store it in the variable inverted_index
-
+#load the inverted index in model_queries_21CS30032.bin
 inverted_index = pickle.load(open("model_queries_21CS30032.bin", "rb"))
-# print all the keys in alphabetical order
-print(sorted(inverted_index.keys()))
-print(len(inverted_index))
 
 filepath = "queries_21CS30032.txt"
 
@@ -20,6 +15,8 @@ while(True) :
     if(line == ""):
         break
     l = line.split()
+
+    # storing the query id
     q_id = int(l[0])
     l.remove(l[0])
     if l[0] in inverted_index :
@@ -28,6 +25,7 @@ while(True) :
         curr = []
         continue
 
+    # performing the merge operation
     for word in l :
         new = []
         if word not in inverted_index :
@@ -47,5 +45,6 @@ while(True) :
 
     f2.write(str(q_id) + ": " + " ".join([str(x) for x in curr]) + "\n")
 
+# closing the files
 f1.close()
 f2.close()
