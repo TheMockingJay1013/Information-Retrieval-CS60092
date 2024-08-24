@@ -1,13 +1,10 @@
 import nltk
 import sys
 import pickle
-nltk.download('punkt_tab')
-nltk.download('wordnet')
 
 from nltk.corpus import stopwords
-nltk.download('stopwords')
 
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer,PorterStemmer
 
 
 
@@ -45,10 +42,11 @@ while(True):
     tokens = nltk.word_tokenize(content)
     stop_words = set(stopwords.words('english'))
     filtered_words = [word for word in tokens if word.lower() not in stop_words]
-    lemmatizer = WordNetLemmatizer()
-    lemmatized_words = [lemmatizer.lemmatize(word) for word in filtered_words]
+    lemmatizer = PorterStemmer()
+    lemmatized_words = [lemmatizer.stem(word) for word in filtered_words]
+    lemmatized_words = list(set(lemmatized_words))
     doc[doc_id] = lemmatized_words
-    full += content
+    full+=content
 
     while(True):
         line = file.readline()
@@ -65,8 +63,8 @@ stop_words = set(stopwords.words('english'))
 filtered_words = [word for word in tokens if word.lower() not in stop_words]
 
 # lemmatize the words
-lemmatizer = WordNetLemmatizer()
-lemmatized_words = [lemmatizer.lemmatize(word) for word in filtered_words]
+lemmatizer = PorterStemmer()
+lemmatized_words = [lemmatizer.stem(word) for word in filtered_words]
 
 # remove duplicates
 lemmatized_words = list(set(lemmatized_words))
@@ -90,3 +88,5 @@ for(doc_id, content) in doc.items():
 
 with open("model_queries_21CS30032.bin", "wb") as f :
     pickle.dump(inverted_index, f)
+
+file.close()

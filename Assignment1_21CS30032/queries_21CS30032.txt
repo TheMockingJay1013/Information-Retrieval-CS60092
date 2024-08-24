@@ -1,57 +1,57 @@
-1	problem concern making descriptive title difficulty involved automatically retrieving article approximate title usual relevance content article title
-2	actually pertinent data opposed reference entire article retrieved automatically response information request
-3	information science give definition possible
-4	image recognition method automatically transforming printed text computer ready form
-5	special training ordinary researcher businessmen need proper information management unobstructed use information retrieval system problem likely encounter
-6	possibility verbal communication computer human communication via spoken word
-7	describe presently working planned system publishing printing original paper computer saving byproduct article coded data processing form use retrieval
-8	describe information retrieval indexing language bearing science general
-9	possibility automatic grammatical contextual analysis article inclusion information retrieval system
-10	use abstract mathematics information retrieval e g group theory
-11	need information consolidation evaluation retrieval scientific research
-12	give method high speed publication printing distribution scientific journal
-13	criterion developed objective evaluation information retrieval dissemination system
-14	future automatic medical diagnosis
-15	much information retrieval dissemination system well automated library cost worth researcher industry
-16	system incorporate multiprogramming remote station information retrieval extent use future
-17	mean obtaining large volume high speed customer usable information retrieval output
-18	method encoding automatically matching automatically drawing structure extended two dimension like structural formula chemical compound
-19	technique machine matching machine searching system coding matching method
-20	testing automated information system
-21	need provide personnel information field
-22	automated information medical field
-23	amount use book library relation need automated information system
-24	educational training requirement personnel information field possibility training need program providing training
-25	international system exchange dissemination information
-26	cost determination cost associated system automated information
-27	computerized information retrieval system computerized indexing system
-28	computerized information system field related chemistry
-29	specific advantage computerized index system
-30	information dissemination journal periodical
-31	information system physical science
-32	attempt computerized mechanized system general library problem method automated general author title indexing system
-33	retrieval system provide automated transmission information user distance
-34	method coding used computerized index system
-35	government supported agency project dealing information dissemination
-36	theory practice computer translating text one national language another machine translating compete traditional method translating comprehending nuance meaning language different structure
-37	list word useful indexing classifying material available wanted list term descriptive vocabulary particular field schedule word related meaningful scheme wanted list tested least extent found useful organizing material retrieving
-38	access word information retrieval system kept date word meaning usage often change list must dynamic current definition problem progress toward solution made providing necessary flexibility system subject heading index word symbol used getting stored data
-39	progress information retrieval present problem maladjustment dislocation personnel training retraining people use new equipment important level librarian assistant technician student researcher even executive need education learn purpose value us information system hardware program developed change attitude skill traditional worker help learn newer technique
-40	status machine translation progress made use computer transfer one language another degree automation problem stumbling block found considered insurmountable limitation challenging field documentation international scale
-41	alphabetical ordering material considered useful tool information retrieval study done compare effectiveness alphabetical order organization scheme generally accepted form arranging material alphabetical order easy way achieving form without going great amount effort
-42	average student researcher difficulty comprehending vocabulary information retrieval appears important new field understood fully accepted basic article would provide understanding various important aspect information storage retrieval
-43	difficulty encountered information retrieval system often le related equipment used failure plan adequately document analysis indexing machine coding position programmer take problem write way equipment understand article written describing research maximizing effectiveness programming
-44	presently fifty one hundred technical journal published average two new journal appear every day many journal published one two million article appear every year attempt made cope amount scientific technical publication term analysis control storage retrieval
-45	looking information impact automation library significance library general includes increasing importance automation view proliferation information today automation help library cope problem automation affect library react idea automation
-46	seeking information use data processing library mechanization routine library process procedure would like description general specific application automation area circulation cataloging acquisition serial record record keeping example based operation conventional public university library practice special library could also applied public university library give description equipment operation present projected
-47	established mean present international exchange material information retrieval take form international agency center regularly distributes information retrieval method research result way material crossed national boundary seem problem blocking better international exchange effort made solve problem
-48	information retrieval still new experimental field line distinguishing research practice often difficult even impossible draw however actual center research information retrieval country located support government business university library information retrieval specialized research discipline said emerging still amalgam skill field mathematics engineering library science word tell information retrieval research
-49	resource spent applying information retrieval technique physical medical science information retrieval used natural science social science humanity problem encountered subject area solved characteristic subject area necessitated development new information retrieval technique prospcts future machine control area
-50	use traditional classification scheme ddc udc lc etc information retrieval system scheme appears suited machine use applied classification scheme irrelevant research shown subject classification knowledge completely unnecessary machine system new scheme devised appear suited machine use
-51	coordinate indexing utilizes descriptor controlled language use descriptor construction index descriptor used searching information retrieval system
-52	characteristic medlar medical literature analysis retrieval system project undertaken national library medicine index current medical journal relation indexing system index medicus major component medlar project major operating detail
-53	computer used medical science diagnostic clinical record keeping purpose program automation tried hospital result problem encountered use automation medicine purpose automated system clinical record used possible us computer medicine
-54	effect librarian automation note new type technology used library effect status position function librarian change contemplated initiated introduce automation education librarian
-55	aim objective medical literature analysis retrieval system medlar medlar operate possible application medlar future information retrieval system
-56	standard method finding information today library use alphabetically arranged card catalog classified catalog based classification system dc lc system modified use automated information retrieval
-57	catalog either arranged alphabetically arranged classification number lc entry printed readable language ultimately important individual looking information definite author title subject phrase language probably english case mind lc entry subject heading used manner automated system
+1	problem concern make descript titl difficulti involv automat retriev articl approxim titl usual relev content articl titl
+2	actual pertin data oppos refer entir articl retriev automat respons inform request
+3	inform scienc give definit possibl
+4	imag recognit method automat transform print text comput readi form
+5	special train ordinari research businessmen need proper inform manag unobstruct use inform retriev system problem like encount
+6	possibl verbal commun comput human commun via spoken word
+7	describ present work plan system publish print origin paper comput save byproduct articl code data process form use retriev
+8	describ inform retriev index languag bear scienc gener
+9	possibl automat grammat contextu analysi articl inclus inform retriev system
+10	use abstract mathemat inform retriev e g group theori
+11	need inform consolid evalu retriev scientif research
+12	give method high speed public print distribut scientif journal
+13	criteria develop object evalu inform retriev dissemin system
+14	futur automat medic diagnosi
+15	much inform retriev dissemin system well autom librari cost worth research industri
+16	system incorpor multiprogram remot station inform retriev extent use futur
+17	mean obtain larg volum high speed custom usabl inform retriev output
+18	method encod automat match automat draw structur extend two dimens like structur formula chemic compound
+19	techniqu machin match machin search system code match method
+20	test autom inform system
+21	need provid personnel inform field
+22	autom inform medic field
+23	amount use book librari relat need autom inform system
+24	educ train requir personnel inform field possibl train need program provid train
+25	intern system exchang dissemin inform
+26	cost determin cost associ system autom inform
+27	computer inform retriev system computer index system
+28	computer inform system field relat chemistri
+29	specif advantag computer index system
+30	inform dissemin journal period
+31	inform system physic scienc
+32	attempt computer mechan system gener librari problem method autom gener author titl index system
+33	retriev system provid autom transmiss inform user distanc
+34	method code use computer index system
+35	govern support agenc project deal inform dissemin
+36	theori practic comput translat text one nation languag anoth machin translat compet tradit method translat comprehend nuanc mean languag differ structur
+37	list word use index classifi materi avail want list term descript vocabulari particular field schedul word relat meaning scheme want list test least extent found use organ materi retriev
+38	access word inform retriev system kept date word mean usag often chang list must dynam current definit problem progress toward solut made provid necessari flexibl system subject head index word symbol use get store data
+39	progress inform retriev present problem maladjust disloc personnel train retrain peopl use new equip import level librarian assist technician student research even execut need educ learn purpos valu use inform system hardwar program develop chang attitud skill tradit worker help learn newer techniqu
+40	statu machin translat progress made use comput transfer one languag anoth degre autom problem stumbl block found consid insurmount limit challeng field document intern scale
+41	alphabet order materi consid use tool inform retriev studi done compar effect alphabet order organ scheme gener accept form arrang materi alphabet order easi way achiev form without go great amount effort
+42	averag student research difficulti comprehend vocabulari inform retriev appear import new field understood fulli accept basic articl would provid understand variou import aspect inform storag retriev
+43	difficulti encount inform retriev system often less relat equip use failur plan adequ document analysi index machin code posit programm take problem write way equip understand articl written describ research maxim effect program
+44	present fifti one hundr technic journal publish averag two new journal appear everi day mani journal publish one two million articl appear everi year attempt made cope amount scientif technic public term analysi control storag retriev
+45	look inform impact autom librari signific librari gener includ increas import autom view prolifer inform today autom help librari cope problem autom affect librari react idea autom
+46	seek inform use data process librari mechan routin librari process procedur would like descript gener specif applic autom area circul catalog acquisit serial record record keep exampl base oper convent public univers librari practic special librari could also appli public univers librari give descript equip oper present project
+47	establish mean present intern exchang materi inform retriev take form intern agenc center regularli distribut inform retriev method research result way materi cross nation boundari seem problem block better intern exchang effort made solv problem
+48	inform retriev still new experiment field line distinguish research practic often difficult even imposs draw howev actual center research inform retriev countri locat support govern busi univers librari inform retriev special research disciplin said emerg still amalgam skill field mathemat engin librari scienc word tell inform retriev research
+49	resourc spent appli inform retriev techniqu physic medic scienc inform retriev use natur scienc social scienc human problem encount subject area solv characterist subject area necessit develop new inform retriev techniqu prospct futur machin control area
+50	use tradit classif scheme ddc udc lc etc inform retriev system scheme appear suit machin use appli classif scheme irrelev research shown subject classif knowledg complet unnecessari machin system new scheme devis appear suit machin use
+51	coordin index util descriptor control languag use descriptor construct index descriptor use search inform retriev system
+52	characterist medlar medic literatur analysi retriev system project undertaken nation librari medicin index current medic journal relat index system index medicu major compon medlar project major oper detail
+53	comput use medic scienc diagnost clinic record keep purpos program autom tri hospit result problem encount use autom medicin purpos autom system clinic record use possibl use comput medicin
+54	effect librarian autom note new type technolog use librari effect statu posit function librarian chang contempl initi introduc autom educ librarian
+55	aim object medic literatur analysi retriev system medlar medlar oper possibl applic medlar futur inform retriev system
+56	standard method find inform today librari use alphabet arrang card catalog classifi catalog base classif system dc lc system modifi use autom inform retriev
+57	catalog either arrang alphabet arrang classif number lc entri print readabl languag ultim import individu look inform definit author titl subject phrase languag probabl english case mind lc entri subject head use manner autom system
