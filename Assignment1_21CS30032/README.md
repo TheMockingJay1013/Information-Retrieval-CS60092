@@ -1,5 +1,5 @@
-###### Roll No : 21CS30032
-###### Name : Navaneeth Shaji
+Roll No : 21CS30032
+Name : Navaneeth Shaji
 
 ### Python Version
 Python 3.9.19
@@ -9,7 +9,7 @@ click==8.1.7\
 joblib==1.4.2\
 nltk==3.8.2\
 regex==2024.7.24\
-tqdm==4.66.5\
+tqdm==4.66.5
 
 ### Details of the design
 
