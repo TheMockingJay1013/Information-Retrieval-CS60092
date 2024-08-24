@@ -68,6 +68,7 @@ lemmatized_words = [lemmatizer.stem(word) for word in filtered_words]
 
 # remove duplicates
 lemmatized_words = list(set(lemmatized_words))
+print(len(lemmatized_words))
 
 # building the inverted index
 inverted_index = {}

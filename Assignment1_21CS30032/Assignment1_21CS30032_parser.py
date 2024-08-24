@@ -21,6 +21,8 @@ while(True) :
     query_id = int(l[1])
     content = ""
     line = file.readline()
+    if not line.startswith(".W") :
+        break
     while(True) :
         line = file.readline()
         if(line.startswith(".I") or line == ""):
